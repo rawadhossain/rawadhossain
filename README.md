@@ -117,7 +117,7 @@
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="filter: brightness(0) invert(1);"/> 
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="filter: brightness(0) invert(1)"/> 
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
