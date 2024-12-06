@@ -1,10 +1,11 @@
-<h1 align="center">Hi <img src="https://giphy.com/stickers/playstationde-astro-bot-astrobot-0jwmLSJIp5qlTrBNEZ" width="32">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 , I'm Rawad Hossain </h1>
-<h3 align="center">Web Developer, DevOps</h3>
+<h3 align="center">Web Developer, DevOps and Cloud Enthusiast</h3>
 <br>
 
 <!-- <img align="right" alt="Coding" width="500"  src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawadhossain&label=Profile%20views&color=blueviolet&style=flat" alt="rawadhossain" /> </p>
+<p align="left"> <a href="https://linkedin.com/in/rawadhossain" target="blank"><img src="https://img.shields.io/twitter/follow/rawadhossain?logo=twitter&color=bluebrightgreen&style=for-the-badge" alt="takitajwar17" /></a> </p>
 <!-- <p align="left"> <a href="https://linkedin.com/in/rawadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg?logo=linked-in&style=for-the-badge" alt="rawadhossain" height="20" width="40" /></a> </p> -->
 
 -   🔭 I’m interested in **Web Development & Cloud Technologies**
@@ -21,7 +22,7 @@
     <a href="https://rawad.hashnode.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@rawad"  /></a>
     <!-- ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white) -->
 
-<br><br>
+<br>
 
 <h2 align="center">Connect on</h2>
 <p align="center">
