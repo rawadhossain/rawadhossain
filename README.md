@@ -33,7 +33,7 @@
 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -118,7 +118,7 @@
     </td>
   </tr>
 </table>
-<br></br>
+<br>
 
 <h2 align="center">Activities & Contributions</h2>
 <p>
