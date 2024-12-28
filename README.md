@@ -134,6 +134,7 @@
 </p>
 <p>
   <a href="https://github.com/rawadhossain">
-    <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawadhossain&theme=dark&theme=black-ice&stroke=0000">
+<!--     <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawadhossain&theme=dark&theme=black-ice&stroke=0000"> -->
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rawadhossain&theme=dark-smoky&border_radius=5.5&card_width=480&card_height=210" alt="GitHub Streak" /></a>
   </a>
 </p>
