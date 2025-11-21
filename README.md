@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
 </p>
 <!-- TALAWA ADMIN -->
-<h3 align="center"> <i>🌍 Talawa Admin (Palisadoes Foundation)</h3>
+<h3 align="center"> <i>🌍 Talawa Admin (Palisadoes Foundation)</i></h3>
 
 <!-- <p align="center">
   <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
 </p> -->
 
-<div align="center">
+<div align="left">
 
   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
