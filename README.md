@@ -25,7 +25,6 @@
 <br>
 
 <h2 align="center">🚀 Open Source Contribution</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
 </p>
@@ -38,42 +37,35 @@
 
 <div align="center">
 
-  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
-    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4750" target="_blank">
-      Refined Code Coverage for OrganizationEvents (#4750)
-    </a>
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4750" target="_blank">Refined Code Coverage for OrganizationEvents (#4750)</a></big></strong>
   </div>
 
-  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
-    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4742" target="_blank">
-      Enhanced Coverage for EventAttendance (#4742)
-    </a>
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4742" target="_blank">Enhanced Coverage for EventAttendance (#4742)</a></big></strong>
   </div>
 
-  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
-    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4739" target="_blank">
-      Improved Test Coverage for YearlyEventCalender (#4739)
-    </a>
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4739" target="_blank">Improved Test Coverage for YearlyEventCalender (#4739)</a></big></strong>
   </div>
 
-  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
-    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4736" target="_blank">
-      Improved Test Coverage for adminPluginInstaller (#4736)
-    </a>
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4736" target="_blank">Improved Test Coverage for adminPluginInstaller (#4736)</a></big></strong>
   </div>
 
-  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
-    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4703" target="_blank">
-      Fix ESLint Errors During Install (#4703)
-    </a>
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4703" target="_blank">Fix ESLint Errors During Install (#4703)</a></big></strong>
   </div>
 
 </div>
+
+
+
 
 
 
