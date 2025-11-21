@@ -35,7 +35,7 @@
   <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
 </p> -->
 
-<div align="left">
+<div align="center">
 
   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
