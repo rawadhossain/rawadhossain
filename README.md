@@ -24,6 +24,59 @@
 
 <br>
 
+<h2 align="center">🚀 Open Source Street Cred</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
+</p>
+<!-- TALAWA ADMIN -->
+<h3 align="center">🌍 Talawa Admin (Palisadoes Foundation)</h3>
+
+<!-- <p align="center">
+  <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
+</p> -->
+
+<p align="left">
+
+  <div style="margin-bottom: 10px;">
+    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4750" target="_blank">
+      Refined Code Coverage for OrganizationEvents (#4750)
+    </a>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4742" target="_blank">
+      Enhanced Coverage for EventAttendance (#4742)
+    </a>
+  </div>
+
+  <div style="margin-bottom: 10px%;">
+    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4739" target="_blank">
+      Improved Test Coverage for YearlyEventCalender (#4739)
+    </a>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4736" target="_blank">
+      Improved Test Coverage for adminPluginInstaller (#4736)
+    </a>
+  </div>
+
+  <div style="margin-bottom: 10px;">
+    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4703" target="_blank">
+      Fix ESLint Errors During Install (#4703)
+    </a>
+  </div>
+
+</p>
+
+
+
 <h2 align="center">Connect on</h2>
 <p align="center">
 <a href="https://linkedin.com/in/rawadhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawadhossain" height="30" width="40" /></a>
