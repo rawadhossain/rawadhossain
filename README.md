@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
 </p>
 <!-- TALAWA ADMIN -->
-<h3 align="center">🌍 Talawa Admin (Palisadoes Foundation)</h3>
+<h3 align="center"> <i>🌍 Talawa Admin (Palisadoes Foundation)</h3>
 
 <!-- <p align="center">
   <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
