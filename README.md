@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">🚀 Open Source Street Cred</h2>
+<h2 align="center">🚀 Open Source Contribution</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
@@ -36,44 +36,47 @@
   <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
 </p> -->
 
-<p align="left">
+<div align="center">
 
-  <div style="margin-bottom: 10px;">
-    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4750" target="_blank">
       Refined Code Coverage for OrganizationEvents (#4750)
     </a>
   </div>
 
-  <div style="margin-bottom: 10px;">
-    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4742" target="_blank">
       Enhanced Coverage for EventAttendance (#4742)
     </a>
   </div>
 
-  <div style="margin-bottom: 10px%;">
-    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4739" target="_blank">
       Improved Test Coverage for YearlyEventCalender (#4739)
     </a>
   </div>
 
-  <div style="margin-bottom: 10px;">
-    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4736" target="_blank">
       Improved Test Coverage for adminPluginInstaller (#4736)
     </a>
   </div>
 
-  <div style="margin-bottom: 10px;">
-    <img src="./merge.png" width="20" style="vertical-align: middle; margin-right: 6px;">
+  <div style="margin-bottom: 12px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4703" target="_blank">
       Fix ESLint Errors During Install (#4703)
     </a>
   </div>
 
-</p>
+</div>
+
+
+
 
 
 
