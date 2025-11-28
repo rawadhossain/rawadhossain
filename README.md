@@ -36,6 +36,16 @@
 </p> -->
 
 <div align="center">
+ <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4829" target="_blank">feat: Enforce no-require-imports rule across Codebase & Enhance InternalFileWriter Test Coverage (#4829)</a></big></strong>
+  </div>
+
+ <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4865" target="_blank">Enhance Coverage for EventRegistrantsModal (#4865)</a></big></strong>
+  </div>
+
 
   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
