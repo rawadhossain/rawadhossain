@@ -39,6 +39,11 @@
     
   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/5066" target="_blank">Enhance check-i18n script to minimize false positives and improve detection accuracy (#5066)</a></big></strong>
+  </div>
+
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/4956" target="_blank">feat: Implement i18n Static Analysis Pipeline with Pre-Commit Enforcement and CI Support (#4956)</a></big></strong>
   </div>
 
