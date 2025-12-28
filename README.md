@@ -39,6 +39,21 @@
     
   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
     <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/5782" target="_blank">EmptyState Migration for Remaining Screens with Logic Alignment and Test Updates (#5782)</a></big></strong>
+  </div>
+
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/5693" target="_blank">Refactor Specialized EmptyState migration with Logic Alignment and Test Updates (#5693)</a></big></strong>
+  </div>
+
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/5287" target="_blank">Refactor Event Workflow and Align Recurring Interval Behavior Across Portals (#5287)</a></big></strong>
+  </div>
+
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
     <strong><big><a href="https://github.com/PalisadoesFoundation/talawa-admin/pull/5066" target="_blank">Enhance check-i18n script to minimize false positives and improve detection accuracy (#5066)</a></big></strong>
   </div>
 
