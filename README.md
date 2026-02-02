@@ -28,9 +28,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
 </p>
+<h3 align="center"> <i> OpenZim/Zimfarm (Kiwix Org) </i></h3>
+
+<div align="center">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/openzim/zimfarm/pull/1675" target="_blank">Periodic Refresh for task Debug logs (#1675)</a></big></strong>
+  </div>
+
+<div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/openzim/zimfarm/pull/1647" target="_blank">Add YouTube link helper to ident field (#1647)</a></big></strong>
+  </div>
+</div>
 <!-- TALAWA ADMIN -->
 <h3 align="center"> <i>🌍 Talawa Admin (Palisadoes Foundation)</i></h3>
-
 <!-- <p align="center">
   <i>🌟 Improving test coverage, developer experience, and contributing to a large open-source ecosystem</i>
 </p> -->
