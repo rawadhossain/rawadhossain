@@ -28,6 +28,26 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge" />
 </p>
+
+<h3 align="center"> <i> PipeCD </i></h3>
+
+<div align="center">
+  <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/pipe-cd/pipecd/pull/6518" target="_blank">Apply defaults for Kubernetes Rollout and Multicluster Plugins (#6518)</a></big></strong>
+  </div>
+
+   <div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+       <strong><big><a href="https://github.com/pipe-cd/pipecd/pull/6516" target="_blank">Default values in Terraform and CloudRun Deployment plugin (#6516)</a></big></strong>
+  </div>
+
+<div style="margin-bottom: 18px; padding: 10px 12px; border-radius: 8px; background: #f5f5f5; display: flex; align-items: center;">
+    <img src="./merge.png" width="20" style="margin-right: 10px;">
+    <strong><big><a href="https://github.com/pipe-cd/pipecd/pull/6513" target="_blank">Apply defaults in wait and analysis Stage Plugins (#6513)</a></big></strong>
+  </div>
+</div>
+
 <h3 align="center"> <i> OpenZim/Zimfarm (Kiwix Org) </i></h3>
 
 <div align="center">
